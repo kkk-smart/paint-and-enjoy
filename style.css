@@ -1,0 +1,87 @@
+.body_backgorund {
+  background-image: url("bac.png");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-weight: bolder;
+  font-size: 14px;
+}
+body{
+  cursor: pointer;
+}
+h1
+{
+    color: black; 
+    font-size: 40px;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 42px;
+  font-size: 16px;
+}
+
+input
+{
+  margin-right: 20px;
+  color: black;
+}
+.intro
+{
+  background-color: rgb(45, 189, 157);
+}
+.intro_img
+{
+  width: 300px;
+  height: 300px;
+}
+.hi
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  color: white;
+  background-color:  rgb(45, 189, 157);
+  text-align: center;
+};
+
+#width_of_line
+{
+  color: black;
+  font-weight: unset;
+}
+
+div {
+  width: 100%;
+  overflow: auto;
+}
+
+p {
+  width: 200%;
+  background: #f5f9fa;
+  border: 2px solid #eaf2f4;
+  padding: 10px;
+}
+
+.scroll-touch {
+  -webkit-overflow-scrolling: touch;
+}
+#down
+{
+  height: 43px;
+  border-radius: 0px;
+  width: 150px;
+  position: relative;
+  bottom: 3px;
+  font-size: 16px;
+}
+#theText {
+  width:10em;
+}

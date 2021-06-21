@@ -1,0 +1,1 @@
+setTimeout(function(){ window.location="done.html" }, 5000);
